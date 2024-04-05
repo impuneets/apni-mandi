@@ -1,0 +1,36 @@
+/* VegetableList.css */
+
+.vegetable-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.vegetable {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.vegetable img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.vegetable-info {
+    flex: 1;
+    color: white;
+
+}
+
+.vegetable-info h3 {
+    margin: 0;
+    color: white;
+}
+
+.vegetable-info p {
+    margin: 0;
+    color: #888;
+    color: white;
+
+}
